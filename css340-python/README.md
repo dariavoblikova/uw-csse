@@ -1,0 +1,11 @@
+Topics: 
+- recursion
+- computational complexity and algorithm analysis
+- logic, induction
+- lists 
+- stacks, queues
+- sorting
+- searching
+- trees, graphs
+- hash tables
+- abstraction, encapsulation, hierarchy and polymorphism
